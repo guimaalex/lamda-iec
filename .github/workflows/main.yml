@@ -1,4 +1,4 @@
-name: deploy sasukesukrin
+name: deploy kimmintong
 
 on:
   push:
