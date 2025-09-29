@@ -1,4 +1,4 @@
-name: deploy kimmintong
+name: deploy nasanier
 
 on:
   push:
